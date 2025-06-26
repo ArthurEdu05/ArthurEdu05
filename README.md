@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=18D4F7&duration=3500&lines=Olá!+👋;+Sou+o+Arthur+Eduardo!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=47B8F7&duration=3500&lines=Olá!+👋;+Sou+o+Arthur+Eduardo!;" />
 </h1>
 
 
@@ -10,7 +10,7 @@
 - Recentemente: comecei um novo estágio na empresa BeBrasil como analista de dados
 
 
-## 🏢 **Experiência Profissional**  
+## 💼 **Experiência Profissional**  
 - **🟧 BeBrasil | Estágio - Analista de Dados**  
   *🗓️ Fev 2025 – Presente*  
   - Gerenciar, analisar e tratar dados dos processos de vendas com **Python, SQL e Excel**;
