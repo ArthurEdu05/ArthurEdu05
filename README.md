@@ -20,7 +20,7 @@
 ## 🎓 **Experiência Acadêmica**  
 - **🟥 Mackenzie | Graduação em Sistemas de informação**  
   *🗓️ Fev 2024 – Presente*  
-  - Focado em programação, gestão de projetos e análise de dados;
+  - Curso focado em programação, gestão de projetos e análise de dados;
   - Participo do desenvolvimento de projetos voluntários e de extensão.  
 
 - **🟩 FECAP | Ensino Técnico em Informática**  
