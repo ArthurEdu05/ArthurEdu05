@@ -4,31 +4,39 @@
 
 
 # **Sobre mim:** 
-- Atualmente estou cursando Sistemas de Informação na Universidade Presbiteriana Mackenzie  
-- Foco evoluir minhas habilidades em **Java/Springboot, Python, React e SQL**
-- Curiosidade: estudo programação desde os meus 14 anos!
-- Recentemente: comecei um novo estágio na empresa BeBrasil como analista de dados
-
+- Atualmente estou cursando **Sistemas de Informação** na Universidade Presbiteriana Mackenzie  
+- Foco evoluir minhas habilidades principalmente em **Java/Springboot**
+- Curiosidade: estudo programação desde os meus 14 anos e já sou formado como **Técnico em Informática** pela FECAP!
 
 ## 💼 **Experiência Profissional**  
+- **🟦 Sete Partners | Estágio - Desenvolvedor Full Stack**  
+  *🗓️ Jun 2025 – Nov 2025*  
+  - Desenvolvi um sistema para gerenciar o processo de análise de crédito de clientes interessados em financiamentos náuticos, além de formulários personalizados para eventos comerciais que a empresa participava, utilizando **JavaScript, PHP, MySQL e HTML/CSS**
+  - Realizei a personalização e implantação de sistemas para diferentes usuários, oferecendo funcionalidades sob demanda
+  - Responsável pela manutenção preventiva e corretiva do bancos de dados
+
+
+
 - **🟧 BeBrasil | Estágio - Analista de Dados**  
-  *🗓️ Fev 2025 – Presente*  
-  - Gerenciar, analisar e tratar dados dos processos de vendas com **Python, SQL e Excel**;
-  - Melhorar fluxos e processos da empresa com **Python**;
-  - Solucionar problemas pós-venda.
+  *🗓️ Fev 2025 – Jul 2025*  
+  - Realizei atualizações em códigos **Python e SQL**
+  - Mantive a conexão com APIs ativa e adaptei soluções a mudanças em plataformas externas que a empresa utilizava.
+  - Desenvolvi novas automações para aumentar a eficiência no processamento de vendas.
+  - Mantive o site atualizado, identificando e resolvendo problemas que afetavam a experiência dos clientes, garantindo a satisfação do usuário.
+
 
 ## 🎓 **Experiência Acadêmica**  
 - **🟥 Mackenzie | Graduação em Sistemas de informação**  
   *🗓️ Fev 2024 – Presente*  
-  - Curso focado em programação, gestão de projetos e análise de dados;
-  - Participo do desenvolvimento de projetos voluntários e de extensão.  
+  - Curso focado em programação, gestão de projetos e análise de dados
+  - Participo do desenvolvimento de projetos voluntários e de extensão  
 
 - **🟩 FECAP | Ensino Técnico em Informática**  
-  *🗓️ Fev 2021 – Nov 2023*  
-  - Foram desenvolvidos projetos técnicos interdisciplinares, apresentados para profissionais da área da tecnologia.  
+  *🗓️ Fev 2021 – Nov 2023*
+  - Foram desenvolvidos projetos técnicos interdisciplinares, apresentados para profissionais da área da tecnologia  
 
 ## 🌐 **Idiomas**  
-- Inglês Avançado   
+- Inglês Avançado (C1)
 
 ## 💻 Linguagens | Ferramentas:
 <div style="display: inline_block"><br>
