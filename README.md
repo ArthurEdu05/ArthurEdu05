@@ -5,24 +5,24 @@
 
 # **Sobre mim:** 
 - Atualmente estou cursando **Sistemas de Informação** na Universidade Presbiteriana Mackenzie  
-- Foco evoluir minhas habilidades principalmente em **Java/Springboot**
+- Foco evoluir minhas habilidades principalmente em **Java/Spring Boot**
 - Curiosidade: estudo programação desde os meus 14 anos e já sou formado como **Técnico em Informática** pela FECAP!
 
 ## 💼 **Experiência Profissional**  
 - **🟦 Sete Partners | Estágio - Desenvolvedor Full Stack**  
   *🗓️ Jun 2025 – Nov 2025*  
   - Desenvolvi um sistema para gerenciar o processo de análise de crédito de clientes interessados em financiamentos náuticos, além de formulários personalizados para eventos comerciais que a empresa participava, utilizando **JavaScript, PHP, MySQL e HTML/CSS**
-  - Realizei a personalização e implantação de sistemas para diferentes usuários, oferecendo funcionalidades sob demanda
-  - Responsável pela manutenção preventiva e corretiva do bancos de dados
+  - Realizei a personalização e implantação de sistemas para diferentes usuários, oferecendo **funcionalidades sob demanda**
+  - Responsável pela manutenção preventiva e corretiva do **bancos de dados**
 
 
 
 - **🟧 BeBrasil | Estágio - Analista de Dados**  
   *🗓️ Fev 2025 – Jul 2025*  
   - Realizei atualizações em códigos **Python e SQL**
-  - Mantive a conexão com APIs ativa e adaptei soluções a mudanças em plataformas externas que a empresa utilizava.
-  - Desenvolvi novas automações para aumentar a eficiência no processamento de vendas.
-  - Mantive o site atualizado, identificando e resolvendo problemas que afetavam a experiência dos clientes, garantindo a satisfação do usuário.
+  - Mantive a **conexão com APIs** ativa e adaptei soluções a mudanças em plataformas externas que a empresa utilizava
+  - Desenvolvi novas automações para aumentar a eficiência no processamento de vendas
+  - Mantive o site atualizado, identificando e resolvendo problemas que afetavam a experiência dos clientes, garantindo a **satisfação do usuário**
 
 
 ## 🎓 **Experiência Acadêmica**  
