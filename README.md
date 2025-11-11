@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=47B8F7&text=Arthur%20Eduardo%20de%20A.%20S.-nl-&fontAlign=50&fontAlignY=30&animation=fadeIn&fontSize=40&desc=Dev.%20Full%20Stack&descSize=20&descAlignY=43&fontColor=fff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=47B8F7&text=Arthur%20Eduardo%20de%20A.%20S.-nl-&fontAlign=50&fontAlignY=30&animation=fadeIn&fontSize=40&desc=Dev.%20Full%20Stack&descSize=20&descAlignY=43&fontColor=fff" />
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=1000&color=47B8F7&duration=3500&lines=Olá!+👋;+Seja+Bem-Vindo!;" />
 </h1>
