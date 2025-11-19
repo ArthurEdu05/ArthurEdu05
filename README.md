@@ -34,7 +34,9 @@
 
 - **🟩 FECAP | Ensino Técnico em Informática**  
   *🗓️ Fev 2021 – Nov 2023*
-  - Foram desenvolvidos projetos técnicos interdisciplinares, apresentados para profissionais da área da tecnologia  
+  - Base sólida em lógica de programação
+  - Foram desenvolvidos projetos técnicos interdisciplinares, apresentados para profissionais da área da tecnologia
+
 
 ## 🌐 **Idiomas**  
 - Inglês Avançado (C1)
