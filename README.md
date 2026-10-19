@@ -10,20 +10,24 @@
 - Curiosidade: estudo programação desde os meus 14 anos e já sou formado como **Técnico em Informática** pela FECAP!
 
 ## 💼 **Experiência Profissional**  
+- **🟩 Tokio Marine Seguradora | Estágio - Desenvolvedor Full Stack**  
+  *🗓️ Mar 2026 – o momento | São Paulo, SP | Híbrido*  
+  - Atuo no desenvolvimento de novos sistemas e na manutenção de aplicações utilizando **Spring Boot e Angular**
+  - Apoio no levantamento de novos requisitos e nas rotinas de testes
+  - Acompanho entregas e prazos aplicando **metodologias ágeis (Scrum e Kanban)**, utilizando **Jira** para gestão de tarefas e **Confluence** para documentação técnica
+
 - **🟦 Sete Partners | Estágio - Desenvolvedor Full Stack**  
-  *🗓️ Jun 2025 – Nov 2025*  
-  - Desenvolvi um sistema para gerenciar o processo de análise de crédito de clientes interessados em financiamentos náuticos, além de formulários personalizados para eventos comerciais que a empresa participava, utilizando **JavaScript, PHP, MySQL e HTML/CSS**
-  - Realizei a personalização e implantação de sistemas para diferentes usuários, oferecendo **funcionalidades sob demanda**
-  - Responsável pela manutenção preventiva e corretiva do **bancos de dados**
-
-
+  *🗓️ Jul 2025 – Dez 2025 | São Paulo, SP | Presencial*  
+  - Desenvolvi por completo o **Portal de Financiamento - NX Boats & Naval Crédito**, voltado a lojistas e administradores, para gerenciar o processo de análise de crédito de clientes interessados em financiamentos náuticos
+  - Construí o portal com **WordPress**, incluindo **login com controle de acesso**, **simulador de financiamento com regras dinâmicas** e **geração automatizada de processos**
+  - Criei uma interface administrativa para consulta e atualização dos dados, com comunicação entre front-end e banco de dados (**MySQL**) via **AJAX**
+  - Integrei o sistema com a **API do OneDrive** para gerenciamento de documentos
 
 - **🟧 BeBrasil | Estágio - Analista de Dados**  
-  *🗓️ Fev 2025 – Jul 2025*  
-  - Realizei atualizações em códigos **Python e SQL**
+  *🗓️ Fev 2025 – Jul 2025 | São Paulo, SP | Presencial*  
+  - Automatizei processos manuais e realizei atualizações em códigos **Python**
   - Mantive a **conexão com APIs** ativa e adaptei soluções a mudanças em plataformas externas que a empresa utilizava
-  - Desenvolvi novas automações para aumentar a eficiência no processamento de vendas
-  - Mantive o site atualizado, identificando e resolvendo problemas que afetavam a experiência dos clientes, garantindo a **satisfação do usuário**
+  - Assegurei a estabilidade e a atualização constante de uma **aplicação web**, detectando e resolvendo problemas que afetavam a venda e a experiência dos clientes, garantindo a **satisfação do usuário**
 
 
 ## 🎓 **Experiência Acadêmica**  
