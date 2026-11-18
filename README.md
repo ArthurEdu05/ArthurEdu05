@@ -11,10 +11,10 @@
 - Curiosidade: estudo programação desde os meus 14 anos e já sou formado como **Técnico em Informática** pela FECAP!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=22&center=true&vCenter=true&width=400&height=40&color=47B8F7&duration=1&repeat=false&lines=Quer+ver+meus+projetos%3F+👇" alt="Quer ver meus projetos?"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=22&center=true&vCenter=true&width=520&height=40&color=47B8F7&duration=1&repeat=false&lines=Veja+meus+projetos+de+maior+impacto+👇" alt="Veja meus projetos de maior impacto"/>
   <br>
   <a href="https://portfolio-arthur-eduardo.vercel.app">
-    <img src="https://img.shields.io/badge/Ver%20meu%20portf%C3%B3lio%20%E2%9E%9C-47B8F7?style=for-the-badge" alt="Ver meu portfólio"/>
+    <img src="https://img.shields.io/badge/Meu%20portf%C3%B3lio%20%E2%9E%9C-47B8F7?style=for-the-badge" alt="Meu portfólio"/>
   </a>
 </div>
 
