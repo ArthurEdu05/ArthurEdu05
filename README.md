@@ -5,9 +5,18 @@
 
 
 # **Sobre mim:** 
-- Atualmente estou cursando **Sistemas de Informação** na Universidade Presbiteriana Mackenzie  
+- Estou cursando **Sistemas de Informação** na Universidade Presbiteriana Mackenzie
+- Trabalhando na Tokio Marine Seguradora
 - Foco evoluir minhas habilidades principalmente em **Java/Spring Boot**
 - Curiosidade: estudo programação desde os meus 14 anos e já sou formado como **Técnico em Informática** pela FECAP!
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=22&center=true&vCenter=true&width=400&height=40&color=47B8F7&duration=1&repeat=false&lines=Quer+ver+meus+projetos%3F+👇" alt="Quer ver meus projetos?"/>
+  <br>
+  <a href="https://portfolio-arthur-eduardo.vercel.app">
+    <img src="https://img.shields.io/badge/Ver%20meu%20portf%C3%B3lio%20%E2%9E%9C-47B8F7?style=for-the-badge" alt="Ver meu portfólio"/>
+  </a>
+</div>
 
 ## 💼 **Experiência Profissional**  
 - **🟩 Tokio Marine Seguradora | Estágio - Desenvolvedor Full Stack**  
@@ -78,7 +87,8 @@
 ## Entre em contato comigo:
  
   <a href = "mailto:arthuredu2005@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/arthuredu/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/arthuredu/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://portfolio-arthur-eduardo.vercel.app"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-%2347B8F7?style=for-the-badge&logo=vercel&logoColor=white"></a>
 
 ## Estatísticas:
 
